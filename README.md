@@ -5,7 +5,7 @@ Some time ago I decided that, in order to truly understand a computer, I would h
 
 And yet, somehow, the low-level engineering details of electronics fascinate me...
 
-So the time is due. Here's my new hobby goal: no further than the 31th of December 2014, I will have done the following:
+So the time is due. Here's my new hobby goal: no further than the 31th of December 2015, I will have done the following:
 
 1. Designed a logic circuit simulator in Scala
 2. Proceeded to implement the fundamentals of electronic systems, such as logic gates, flip-flops, muxes/demuxes, etc.
@@ -16,7 +16,7 @@ So the time is due. Here's my new hobby goal: no further than the 31th of Decemb
 7. Implement an application for that OS that acts as a real-time monitor of the code being executed
 8. Physically build this system with VGA output from common IC's
 
-Since I have little more than 8 months until the 31th of December, this means that each topic above must be completed in a single month, being allowed to use *only* my spare time. This means that I cannot *ever* touch the source-code before 8PM or during weekends, holidays and vacations. And I'll blog everything while I go.
+Since I have little more than 8 months until the 31th of December 2015, this means that each topic above must be completed in a single month, being allowed to use *only* my spare time. This means that I cannot *ever* touch the source-code before 8PM or during weekends, holidays and vacations. And I'll blog everything while I go.
 
 Readers beware: I've never attempted anything similar, and I'll learn as I go along. Do not use assume anything from this blog posts other than that I might probably be doing it the wrong way.
 
